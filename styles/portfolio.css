@@ -68,6 +68,17 @@ p {
 .content p {
   font-size: 16px;
 }
+.inquiry {
+  background-color: var(--primary-color);
+  height: 200px;
+  width: 900px;
+}
+.inquiry h2 {
+  font-size: 48px;
+}
+.inquiry p {
+  font-size: 18px;
+}
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
